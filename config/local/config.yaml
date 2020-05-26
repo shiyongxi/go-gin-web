@@ -1,0 +1,7 @@
+system:
+  contextPath: /gin-web
+  host: 127.0.0.1
+  grpcPort: 6060
+  port: 8888
+  mode: debug # debug|test|release
+  debug: true

@@ -1,0 +1,5 @@
+- id: "200"
+  translation: "success"
+
+- id: "900"
+  translation: "The parameter is wrong, please check the Api documentation."
